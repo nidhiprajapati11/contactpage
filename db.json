@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "zil",
+      "username": "zilprajapati108@gmail.com",
+      "email": "zill111@gmail.com",
+      "phone": "09687225937",
+      "website": "",
+      "id": "mWQQrH2"
+    },
+    {
+      "name": "nidhi",
+      "photo": "",
+      "email": "nidhiprajapati1111@gmail.com",
+      "phone": "9687225937",
+      "company": "software",
+      "title": "",
+      "id": "2DijZPF"
+    },
+    {
+      "name": "somil",
+      "photo": "",
+      "email": "somil11@gmail.com",
+      "phone": "1223564693",
+      "company": "software",
+      "title": "computer",
+      "id": "bWTx-xZ"
+    },
+    {
+      "name": "nisarg",
+      "photo": "",
+      "email": "nisarg@gmail.com",
+      "phone": "123456789",
+      "company": "bsc",
+      "title": "abscder",
+      "id": "uHBTlKO"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "colleague"
+    },
+    {
+      "id": "2",
+      "name": "friend"
+    }
+  ]
+}
